@@ -1,3 +1,4 @@
+/* Set box-sizing property for all elements */
 *,
 *::before,
 *::after {
@@ -5,42 +6,39 @@
 }
 
 /* Custom Properties, update these for your own design */
-
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-primary: 'Source Sans Pro', sans-serif; /* Primary font family */
+    --ff-secondary: 'Source Code Pro', monospace; /* Secondary font family */
     
-    --fw-reg: 300;
-    --fw-bold: 900;
+    --fw-reg: 300; /* Regular font weight */
+    --fw-bold: 900; /* Bold font weight */
     
-    --clr-light: #F2F2F2;
-    --clr-dark: #333333;
-    --clr-accent: #008080; /* Coral color */
+    --clr-light: #F2F2F2; /* Light color */
+    --clr-dark: #333333; /* Dark color */
+    --clr-accent: #008080; /* Accent color */
     
-    --fs-h1: 3rem;
-    --fs-h2: 2.25rem;
-    --fs-h3: 1.25rem;
-    --fs-body: 1rem;
+    --fs-h1: 3rem; /* Heading 1 font size */
+    --fs-h2: 2.25rem; /* Heading 2 font size */
+    --fs-h3: 1.25rem; /* Heading 3 font size */
+    --fs-body: 1rem; /* Body font size */
     
-    --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.097),
+    --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.097), /* Box shadow */
           0.125em 0.125em 0.25em rgba(0, 0, 0, 0.008);
 }
 
 @media (min-width: 800px) {
     :root {
-        --fs-h1: 4.5rem;
-        --fs-h2: 3.75rem;
-        --fs-h3: 1.5rem;
-        --fs-body: 1.125rem;
+        --fs-h1: 4.5rem; /* Heading 1 font size for larger screens */
+        --fs-h2: 3.75rem; /* Heading 2 font size for larger screens */
+        --fs-h3: 1.5rem; /* Heading 3 font size for larger screens */
+        --fs-body: 1.125rem; /* Body font size for larger screens */
     }
 }
 
-/* General styles */
 
-/* endable this to add smooth scrolling */
-/* html {
+html {
     scroll-behavior: smooth;
-} */
+} 
 
 
 body {
