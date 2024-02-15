@@ -15,7 +15,7 @@
     
     --clr-light: #F2F2F2;
     --clr-dark: #333333;
-    --clr-accent: #FF6347; /* Coral color */
+    --clr-accent: #008080; /* Coral color */
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -147,8 +147,8 @@ header {
 
 .nav {
     position: fixed;
-    background: var(--clr-dark);
-    color: var(--clr-light);
+    background: var(--clr-light);
+    color: var(--clr-dark);
     top: 0;
     bottom: 0;
     left: 0;
