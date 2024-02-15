@@ -1,21 +1,50 @@
-# cNq83aTN
+# Kagiso Legodi Portfolio Website
 
-Quick start:
+This is a portfolio website for Kagiso Legodi, a front-end developer based in Ga-Luka. It showcases Kagiso's skills, services, and previous work.
 
-```
-$ npm install
-$ npm start
-````
+## Table of Contents
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Description
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This website serves as an online portfolio for Kagiso Legodi. It provides information about Kagiso's services, compentency, and showcases some of his previous work.
 
-Happy Coding!
+## Features
+
+- Responsive design for various screen sizes
+- Smooth scrolling navigation
+- Dynamic navigation menu
+- Image gallery for portfolio items
+
+## Installation
+
+To run this website locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+
+## Usage
+
+- Navigate through the website using the links in the navigation menu.
+- Explore the different sections to learn more about Kagiso's services, skills, and work.
+- Click on the portfolio items to view more details about each project.
+
+## Credits
+
+- Normalize.css (https://necolas.github.io/normalize.css/)
+- Font Awesome (https://fontawesome.com/)
+- Google Fonts (https://fonts.google.com/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize and expand upon this README file as needed!
