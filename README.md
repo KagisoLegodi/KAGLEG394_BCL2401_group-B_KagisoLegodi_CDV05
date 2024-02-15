@@ -44,7 +44,3 @@ To run this website locally, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize and expand upon this README file as needed!
