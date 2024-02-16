@@ -13,7 +13,7 @@ This is a portfolio website for Kagiso Legodi, a front-end developer based in Ga
 
 ## Description
 
-This website serves as an online portfolio for Kagiso Legodi. It provides information about Kagiso's services, compentency, and showcases some of his previous work.
+This website serves as an online portfolio for Kagiso Legodi. It provides information about Kagiso's services, and competency, and showcases some of his previous work.
 
 ## Features
 
