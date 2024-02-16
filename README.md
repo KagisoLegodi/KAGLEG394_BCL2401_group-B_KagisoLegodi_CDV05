@@ -1,6 +1,6 @@
 # Kagiso Legodi Portfolio Website
 
-This is a portfolio website for Kagiso Legodi, a front-end developer based in Ga-Luka. It showcases Kagiso's skills, services, and previous work.
+This is a portfolio website for Kagiso Legodi, a front-end developer based in Ga-Luka. It showcases Kagiso's skills and previous work.
 
 ## Table of Contents
 
