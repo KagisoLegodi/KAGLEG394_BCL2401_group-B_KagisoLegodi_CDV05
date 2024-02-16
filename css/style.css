@@ -145,8 +145,8 @@ header {
 
 .nav {
     position: fixed;
-    background: var(--clr-light);
-    color: var(--clr-dark);
+    background: var(--clr-dark);
+    color: var(--clr-light);
     top: 0;
     bottom: 0;
     left: 0;
@@ -207,7 +207,7 @@ header {
 }
 
 .nav-open .hamburger::after {
-    opacity: 50%;
+    opacity: 0;
 }
 
 
@@ -241,6 +241,7 @@ header {
 
 .hamburger::before { top: 6px; }
 .hamburger::after { bottom: 6px; }
+
 
 
 /*  Intro section  */
