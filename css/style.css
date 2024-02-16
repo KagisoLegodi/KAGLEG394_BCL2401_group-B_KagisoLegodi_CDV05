@@ -133,7 +133,7 @@ h3 { font-size: var(--fs-h3) }
 
 /* header */
 
-header {
+.header {
     display: flex;
     justify-content: space-between;
     padding: 1em;
@@ -187,7 +187,7 @@ header {
     position: absolute;
     right: 1em;
     top: 1em;
-    z-index: 1000;
+    z-index: 100;
 }
 
 .nav-open .nav {
