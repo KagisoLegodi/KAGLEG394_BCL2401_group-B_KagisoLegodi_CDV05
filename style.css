@@ -141,6 +141,7 @@ h3 { font-size: var(--fs-h3) }
 
 .logo {
     max-width: 100px;
+    animation: pulse 2s infinite alternate  
 }
 
 .nav {
@@ -342,12 +343,19 @@ h3 { font-size: var(--fs-h3) }
 .about-me {
     max-width: 1000px;
     margin: 0 auto;
+    transition: left 10s ease;
 }
 
-.about-me__img {
-    box-shadow: var(--bs);
+.about-me__img:hover {
+    animation: pulse 2s infinite alternate  
 }
 
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(0.9); }
+  }
+  
 @media (min-width: 600px) {
     .about-me {
         display: grid;
